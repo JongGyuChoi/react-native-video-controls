@@ -1,5 +1,5 @@
 {
-  "name": "react-native-video-controls-custom",
+  "name": "react-native-video-controls-onseek",
   "version": "0.0.1",
   "description": "A set of GUI controls for the react-native-video component",
   "license": "MIT",
@@ -14,11 +14,15 @@
     "lint": "eslint .",
     "test": "echo \"No test specified\" && exit 1"
   },
-  "author": "JongGyuChoi",
+  "author": "Nubix (https://github.com/itsnubix)",
   "repository": {
     "type": "git",
     "url": "git@github.com:JongGyuChoi/react-native-video-controls.git"
   },
+  "bugs": {
+    "url": "https://github.com/JongGyuChoi/react-native-video-controls/issues"
+  },
+  "homepage": "https://github.com/JongGyuChoi/react-native-video-controls#readme",
   "dependencies": {
     "lodash": "^4.16.4"
   },
