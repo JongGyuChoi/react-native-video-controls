@@ -1,3 +1,5 @@
+# JongGyuChoi Fork Version
+
 # react-native-video-controls
 
 [![ci][1]][2]
@@ -69,10 +71,10 @@ In addition, the `<VideoPlayer />` also takes these props:
 | style                        | StyleSheet   | null    | React Native StyleSheet object that is appended to the video's parent `<View>`                                                                                   |
 | tapAnywhereToPause           | Boolean      | false   | If true, single tapping anywhere on the video (other than a control) toggles between playing and paused.                                                         |
 
-| showTimeRemaining            | Boolean      | true    | If true, show the time remaing, else show the current time in the Player.
+| showTimeRemaining | Boolean | true | If true, show the time remaing, else show the current time in the Player.
 `<View>`
 
-| showHours                    | Boolean      | false   | If true, convert time to hours in the Player
+| showHours | Boolean | false | If true, convert time to hours in the Player
 `<View>`
 
 ### Events
