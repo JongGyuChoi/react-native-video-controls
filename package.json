@@ -1,5 +1,5 @@
 {
-  "name": "react-native-video-controls-onseek",
+  "name": "react-native-video-controls-custom-onseek",
   "version": "0.0.1",
   "description": "A set of GUI controls for the react-native-video component",
   "license": "MIT",
